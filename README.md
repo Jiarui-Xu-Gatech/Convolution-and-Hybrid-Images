@@ -1,4 +1,4 @@
-# CS-4476/6476 Project 1: Convolution and Hybrid Images
+# Convolution and Hybrid Images
 
 ## Getting Started
 
